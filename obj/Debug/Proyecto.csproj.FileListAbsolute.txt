@@ -1,0 +1,10 @@
+D:\C#\github\itto31\ProyectoVentas\Proyecto\bin\Debug\Proyecto.exe.config
+D:\C#\github\itto31\ProyectoVentas\Proyecto\bin\Debug\Proyecto.exe
+D:\C#\github\itto31\ProyectoVentas\Proyecto\bin\Debug\Proyecto.pdb
+D:\C#\github\itto31\ProyectoVentas\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\C#\github\itto31\ProyectoVentas\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\C#\github\itto31\ProyectoVentas\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\C#\github\itto31\ProyectoVentas\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\C#\github\itto31\ProyectoVentas\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\C#\github\itto31\ProyectoVentas\Proyecto\obj\Debug\Proyecto.exe
+D:\C#\github\itto31\ProyectoVentas\Proyecto\obj\Debug\Proyecto.pdb
